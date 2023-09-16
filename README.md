@@ -2,7 +2,7 @@
 
 1. automatically created on 2023-09-16T:09:00.000000
 
-```javascript
+```json
 {
   "name": "mydashboard",
   "version": "1.0.0",
