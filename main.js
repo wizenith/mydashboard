@@ -1,2 +1,2 @@
-let x = 'main'
-console.log(x)
+let x = 'main';
+console.log(x);
